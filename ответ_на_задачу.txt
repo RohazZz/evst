@@ -1,2 +1,2 @@
 Bar.Quux(object)
-Baz.Quux(params T[])
+Baz.Quux()
