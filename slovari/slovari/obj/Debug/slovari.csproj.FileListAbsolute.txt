@@ -1,0 +1,8 @@
+C:\Users\evsti\source\repos\slovari\slovari\bin\Debug\slovari.exe.config
+C:\Users\evsti\source\repos\slovari\slovari\bin\Debug\slovari.exe
+C:\Users\evsti\source\repos\slovari\slovari\bin\Debug\slovari.pdb
+C:\Users\evsti\source\repos\slovari\slovari\obj\Debug\slovari.csproj.AssemblyReference.cache
+C:\Users\evsti\source\repos\slovari\slovari\obj\Debug\slovari.csproj.SuggestedBindingRedirects.cache
+C:\Users\evsti\source\repos\slovari\slovari\obj\Debug\slovari.csproj.CoreCompileInputs.cache
+C:\Users\evsti\source\repos\slovari\slovari\obj\Debug\slovari.exe
+C:\Users\evsti\source\repos\slovari\slovari\obj\Debug\slovari.pdb
