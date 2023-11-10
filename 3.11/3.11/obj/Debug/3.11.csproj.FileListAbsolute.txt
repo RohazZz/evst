@@ -1,0 +1,16 @@
+C:\Users\evsti\source\repos\3.11\3.11\bin\Debug\3.11.exe.config
+C:\Users\evsti\source\repos\3.11\3.11\bin\Debug\3.11.exe
+C:\Users\evsti\source\repos\3.11\3.11\bin\Debug\3.11.pdb
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11.csproj.AssemblyReference.cache
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11.csproj.SuggestedBindingRedirects.cache
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\MainWindow.g.cs
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\App.g.cs
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11_MarkupCompile.cache
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11_MarkupCompile.lref
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\MainWindow.baml
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11.g.resources
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\_3._11.Properties.Resources.resources
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11.csproj.GenerateResource.cache
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11.csproj.CoreCompileInputs.cache
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11.exe
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11.pdb
