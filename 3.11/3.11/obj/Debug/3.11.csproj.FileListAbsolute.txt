@@ -14,3 +14,5 @@ C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11.csproj.GenerateResource.cac
 C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11.csproj.CoreCompileInputs.cache
 C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11.exe
 C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\3.11.pdb
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\Window1.g.cs
+C:\Users\evsti\source\repos\3.11\3.11\obj\Debug\Window1.baml
